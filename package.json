@@ -8,6 +8,7 @@
     "build": "vite build --base=/htmlcss_84_Ne1rem/",
     "preview": "vite preview"
   },
+  
   "devDependencies": {
     "vite": "^4.0.0",
     "glob": "^8.1.0"
